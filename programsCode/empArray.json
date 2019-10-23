@@ -1,0 +1,19 @@
+[
+{
+    
+        "employee": {
+            "firstName": "Lokesh",
+            "lastName": "Gupta",
+            "website": "howtodoinjava.com"
+        }
+},
+    
+    {
+        "employee": {
+            "firstName": "Lokesh",
+            "lastName": "Schultz",
+            "website": "example.com"
+        }
+}
+    
+]
